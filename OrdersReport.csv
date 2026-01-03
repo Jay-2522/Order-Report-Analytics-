@@ -1,0 +1,501 @@
+OrderID,OrderDate,CustomerID,CustomerSegment,Region,ProductCategory,ProductName,Quantity,UnitPrice,TotalAmount,OrderStatus
+10001,2024-01-01,2102,Home Office,East,Electronics,Chair,7,5441.79,38092.53,Completed
+10002,2024-01-02,2435,Corporate,East,Electronics,Printer,8,34280.64,274245.12,Completed
+10003,2024-01-03,2860,Corporate,North,Electronics,Mobile Phone,2,4638.95,9277.9,Returned
+10004,2024-01-04,2270,Home Office,East,Office Supplies,Laptop,5,48258.23,241291.15000000002,Completed
+10005,2024-01-05,2106,Corporate,East,Office Supplies,Chair,1,24445.29,24445.29,Completed
+10006,2024-01-06,2071,Home Office,West,Furniture,Monitor,7,7576.27,53033.89,Returned
+10007,2024-01-07,2700,Corporate,East,Furniture,Monitor,8,17152.06,137216.48,Completed
+10008,2024-01-08,2020,Home Office,East,Furniture,Mobile Phone,6,20700.15,124200.90000000001,Completed
+10009,2024-01-09,2614,Home Office,South,Electronics,Mobile Phone,5,37921.34,189606.69999999998,Completed
+10010,2024-01-10,2121,Corporate,West,Electronics,Chair,6,37184.02,223104.12,Returned
+10011,2024-01-11,2466,Corporate,West,Office Supplies,Printer,2,30616.43,61232.86,Completed
+10012,2024-01-12,2214,Corporate,West,Electronics,Pen Set,1,5341.24,5341.24,Completed
+10013,2024-01-13,2330,Consumer,West,Electronics,Monitor,7,7620.89,53346.23,Completed
+10014,2024-01-14,2458,Consumer,West,Electronics,Monitor,7,4733.16,33132.119999999995,Completed
+10015,2024-01-15,2087,Consumer,West,Furniture,Mobile Phone,2,28879.78,57759.56,Completed
+10016,2024-01-16,2372,Home Office,North,Furniture,Desk,2,43863.07,87726.14,Completed
+10017,2024-01-17,2099,Corporate,East,Office Supplies,Mobile Phone,1,21718.34,21718.34,Completed
+10018,2024-01-18,2871,Home Office,West,Electronics,Pen Set,8,8084.37,64674.96,Returned
+10019,2024-01-19,2663,Consumer,East,Electronics,Printer,8,27924.21,223393.68,Completed
+10020,2024-01-20,2130,Corporate,East,Office Supplies,Printer,1,40597.02,40597.02,Completed
+10021,2024-01-21,2661,Home Office,North,Electronics,Desk,8,37098.52,296788.16,Completed
+10022,2024-01-22,2308,Corporate,West,Electronics,Monitor,9,44078.47,396706.23,Completed
+10023,2024-01-23,2769,Home Office,South,Furniture,Mobile Phone,4,13931.21,55724.84,Completed
+10024,2024-01-24,2343,Corporate,North,Office Supplies,Printer,1,9738.0,9738.0,Completed
+10025,2024-01-25,2491,Consumer,South,Office Supplies,Pen Set,1,43996.83,43996.83,Completed
+10026,2024-01-26,2413,Consumer,East,Office Supplies,Chair,3,32895.14,98685.42,Completed
+10027,2024-01-27,2805,Corporate,East,Office Supplies,Laptop,5,15580.9,77904.5,Completed
+10028,2024-01-28,2385,Home Office,North,Furniture,Laptop,5,37130.29,185651.45,Completed
+10029,2024-01-29,2191,Consumer,North,Furniture,Laptop,9,40765.16,366886.44000000006,Cancelled
+10030,2024-01-30,2955,Consumer,South,Electronics,Monitor,2,30768.16,61536.32,Completed
+10031,2024-01-31,2276,Consumer,West,Electronics,Mobile Phone,2,34409.81,68819.62,Completed
+10032,2024-02-01,2160,Corporate,South,Electronics,Desk,6,18794.23,112765.38,Completed
+10033,2024-02-02,2459,Corporate,North,Electronics,Printer,9,26957.85,242620.65,Completed
+10034,2024-02-03,2313,Home Office,South,Furniture,Chair,1,26231.75,26231.75,Completed
+10035,2024-02-04,2021,Home Office,North,Office Supplies,Pen Set,9,42409.99,381689.91,Completed
+10036,2024-02-05,2252,Home Office,South,Furniture,Chair,9,42006.2,378055.8,Completed
+10037,2024-02-06,2747,Corporate,North,Electronics,Pen Set,9,41642.39,374781.51,Completed
+10038,2024-02-07,2856,Corporate,North,Furniture,Monitor,5,601.03,3005.1499999999996,Returned
+10039,2024-02-08,2560,Home Office,North,Office Supplies,Mobile Phone,9,37489.8,337408.2,Completed
+10040,2024-02-09,2474,Home Office,West,Office Supplies,Laptop,4,37945.89,151783.56,Returned
+10041,2024-02-10,2058,Corporate,South,Furniture,Mobile Phone,2,33935.02,67870.04,Completed
+10042,2024-02-11,2510,Home Office,South,Furniture,Monitor,6,37825.42,226952.52,Completed
+10043,2024-02-12,2681,Consumer,South,Furniture,Desk,4,42106.42,168425.68,Completed
+10044,2024-02-13,2475,Corporate,North,Electronics,Desk,6,23542.44,141254.63999999998,Completed
+10045,2024-02-14,2699,Home Office,South,Furniture,Monitor,3,25127.41,75382.23,Cancelled
+10046,2024-02-15,2975,Corporate,South,Furniture,Pen Set,6,6279.47,37676.82,Completed
+10047,2024-02-16,2782,Consumer,North,Furniture,Printer,2,19299.53,38599.06,Cancelled
+10048,2024-02-17,2189,Corporate,East,Office Supplies,Printer,2,32186.09,64372.18,Completed
+10049,2024-02-18,2957,Corporate,North,Office Supplies,Pen Set,9,39030.97,351278.73,Completed
+10050,2024-02-19,2686,Corporate,South,Electronics,Desk,7,10899.59,76297.13,Completed
+10051,2024-02-20,2957,Corporate,North,Electronics,Desk,3,6934.25,20802.75,Completed
+10052,2024-02-21,2562,Consumer,East,Office Supplies,Desk,1,33168.95,33168.95,Cancelled
+10053,2024-02-22,2875,Corporate,North,Office Supplies,Mobile Phone,8,143.9,1151.2,Completed
+10054,2024-02-23,2566,Corporate,South,Office Supplies,Desk,6,8959.71,53758.259999999995,Completed
+10055,2024-02-24,2243,Home Office,East,Furniture,Chair,7,1502.12,10514.84,Completed
+10056,2024-02-25,2831,Corporate,West,Furniture,Laptop,9,8385.91,75473.19,Completed
+10057,2024-02-26,2504,Home Office,South,Office Supplies,Desk,5,9106.9,45534.5,Completed
+10058,2024-02-27,2130,Consumer,East,Furniture,Pen Set,1,19414.3,19414.3,Completed
+10059,2024-02-28,2484,Consumer,East,Furniture,Laptop,7,20146.24,141023.68000000002,Returned
+10060,2024-02-29,2818,Consumer,West,Electronics,Mobile Phone,5,43719.41,218597.05000000002,Completed
+10061,2024-03-01,2646,Consumer,North,Office Supplies,Pen Set,3,25529.98,76589.94,Completed
+10062,2024-03-02,2020,Home Office,North,Office Supplies,Laptop,9,36184.07,325656.63,Completed
+10063,2024-03-03,2840,Corporate,South,Furniture,Pen Set,1,5251.66,5251.66,Completed
+10064,2024-03-04,2166,Consumer,West,Office Supplies,Mobile Phone,1,11310.67,11310.67,Cancelled
+10065,2024-03-05,2273,Corporate,North,Electronics,Chair,1,35162.02,35162.02,Completed
+10066,2024-03-06,2387,Home Office,West,Electronics,Mobile Phone,3,2687.56,8062.68,Completed
+10067,2024-03-07,2600,Home Office,North,Electronics,Mobile Phone,6,24355.55,146133.3,Completed
+10068,2024-03-08,2315,Home Office,East,Office Supplies,Pen Set,3,29988.48,89965.44,Completed
+10069,2024-03-09,2013,Consumer,North,Office Supplies,Monitor,8,30127.17,241017.36,Completed
+10070,2024-03-10,2241,Corporate,West,Office Supplies,Printer,2,1195.49,2390.98,Cancelled
+10071,2024-03-11,2776,Corporate,East,Office Supplies,Desk,9,16139.29,145253.61000000002,Completed
+10072,2024-03-12,2345,Corporate,East,Office Supplies,Desk,3,31842.71,95528.13,Cancelled
+10073,2024-03-13,2564,Home Office,East,Electronics,Chair,5,7492.54,37462.7,Completed
+10074,2024-03-14,2897,Consumer,West,Furniture,Chair,8,34786.01,278288.08,Completed
+10075,2024-03-15,2339,Home Office,South,Electronics,Desk,2,37308.96,74617.92,Completed
+10076,2024-03-16,2091,Home Office,South,Office Supplies,Printer,6,49099.36,294596.16000000003,Completed
+10077,2024-03-17,2366,Corporate,South,Electronics,Desk,5,10531.61,52658.05,Returned
+10078,2024-03-18,2955,Home Office,West,Office Supplies,Monitor,9,41265.28,371387.52,Completed
+10079,2024-03-19,2454,Corporate,East,Office Supplies,Printer,5,26038.81,130194.05,Returned
+10080,2024-03-20,2427,Consumer,South,Electronics,Chair,2,18704.46,37408.92,Completed
+10081,2024-03-21,2508,Corporate,West,Office Supplies,Laptop,5,6162.72,30813.600000000002,Completed
+10082,2024-03-22,2775,Consumer,South,Furniture,Pen Set,4,36788.51,147154.04,Completed
+10083,2024-03-23,2942,Corporate,North,Office Supplies,Monitor,7,11831.09,82817.63,Completed
+10084,2024-03-24,2034,Home Office,South,Furniture,Monitor,6,18602.53,111615.18,Completed
+10085,2024-03-25,2205,Home Office,South,Furniture,Chair,2,3173.98,6347.96,Returned
+10086,2024-03-26,2080,Consumer,East,Office Supplies,Chair,5,40078.28,200391.4,Completed
+10087,2024-03-27,2931,Consumer,West,Electronics,Mobile Phone,7,38341.1,268387.7,Completed
+10088,2024-03-28,2561,Consumer,East,Furniture,Monitor,7,36694.11,256858.77000000002,Completed
+10089,2024-03-29,2871,Corporate,East,Electronics,Mobile Phone,5,15007.2,75036.0,Cancelled
+10090,2024-03-30,2387,Corporate,East,Furniture,Mobile Phone,9,8715.33,78437.97,Completed
+10091,2024-03-31,2001,Consumer,East,Office Supplies,Pen Set,4,31895.79,127583.16,Returned
+10092,2024-04-01,2389,Home Office,East,Office Supplies,Mobile Phone,3,24833.51,74500.53,Completed
+10093,2024-04-02,2565,Corporate,South,Furniture,Printer,4,8953.71,35814.84,Completed
+10094,2024-04-03,2105,Corporate,East,Office Supplies,Desk,5,34311.27,171556.34999999998,Completed
+10095,2024-04-04,2771,Corporate,East,Furniture,Laptop,6,49556.77,297340.62,Completed
+10096,2024-04-05,2821,Consumer,West,Office Supplies,Chair,3,37373.62,112120.86000000002,Completed
+10097,2024-04-06,2476,Consumer,North,Electronics,Printer,2,37012.32,74024.64,Completed
+10098,2024-04-07,2702,Consumer,South,Office Supplies,Laptop,4,47518.12,190072.48,Completed
+10099,2024-04-08,2401,Consumer,South,Electronics,Monitor,5,10186.67,50933.35,Completed
+10100,2024-04-09,2729,Consumer,South,Office Supplies,Monitor,4,28299.22,113196.88,Completed
+10101,2024-04-10,2555,Home Office,East,Electronics,Monitor,3,48983.35,146950.05,Returned
+10102,2024-04-11,2161,Home Office,East,Office Supplies,Printer,8,8306.44,66451.52,Completed
+10103,2024-04-12,2201,Consumer,East,Electronics,Printer,4,35027.59,140110.36,Cancelled
+10104,2024-04-13,2957,Corporate,West,Furniture,Chair,2,29311.22,58622.44,Completed
+10105,2024-04-14,2995,Consumer,North,Furniture,Desk,2,29344.63,58689.26,Completed
+10106,2024-04-15,2269,Home Office,East,Electronics,Mobile Phone,1,34898.65,34898.65,Completed
+10107,2024-04-16,2862,Home Office,North,Office Supplies,Monitor,4,46484.37,185937.48,Completed
+10108,2024-04-17,2815,Corporate,West,Electronics,Pen Set,9,39139.97,352259.73,Completed
+10109,2024-04-18,2270,Home Office,South,Office Supplies,Desk,7,2854.0,19978.0,Completed
+10110,2024-04-19,2455,Consumer,East,Furniture,Pen Set,7,42643.76,298506.32,Completed
+10111,2024-04-20,2461,Corporate,North,Office Supplies,Chair,7,11315.79,79210.53,Completed
+10112,2024-04-21,2726,Consumer,North,Furniture,Chair,8,18876.86,151014.88,Completed
+10113,2024-04-22,2251,Consumer,East,Office Supplies,Chair,1,23113.55,23113.55,Completed
+10114,2024-04-23,2701,Corporate,South,Office Supplies,Laptop,8,24071.25,192570.0,Completed
+10115,2024-04-24,2295,Consumer,South,Office Supplies,Pen Set,4,21787.26,87149.04,Completed
+10116,2024-04-25,2724,Home Office,South,Electronics,Desk,4,46870.8,187483.2,Cancelled
+10117,2024-04-26,2719,Consumer,West,Electronics,Desk,4,35315.65,141262.6,Cancelled
+10118,2024-04-27,2748,Corporate,North,Furniture,Printer,6,31576.97,189461.82,Completed
+10119,2024-04-28,2337,Corporate,North,Furniture,Printer,7,2539.61,17777.27,Completed
+10120,2024-04-29,2878,Corporate,North,Electronics,Monitor,6,45200.47,271202.82,Completed
+10121,2024-04-30,2052,Consumer,West,Furniture,Printer,1,45474.04,45474.04,Completed
+10122,2024-05-01,2791,Corporate,North,Electronics,Chair,8,39021.64,312173.12,Completed
+10123,2024-05-02,2921,Corporate,West,Office Supplies,Desk,7,401.11,2807.77,Completed
+10124,2024-05-03,2216,Consumer,South,Furniture,Pen Set,6,2911.15,17466.9,Completed
+10125,2024-05-04,2763,Home Office,East,Furniture,Chair,6,11299.92,67799.52,Completed
+10126,2024-05-05,2187,Consumer,North,Electronics,Laptop,5,6610.9,33054.5,Completed
+10127,2024-05-06,2379,Corporate,North,Furniture,Printer,6,19971.86,119831.16,Completed
+10128,2024-05-07,2492,Corporate,South,Furniture,Chair,9,46135.02,415215.18,Cancelled
+10129,2024-05-08,2040,Consumer,East,Office Supplies,Chair,9,23629.42,212664.77999999997,Completed
+10130,2024-05-09,2156,Home Office,West,Furniture,Laptop,8,719.46,5755.68,Completed
+10131,2024-05-10,2014,Corporate,East,Office Supplies,Mobile Phone,9,14173.15,127558.34999999999,Returned
+10132,2024-05-11,2812,Corporate,South,Electronics,Desk,8,2277.52,18220.16,Completed
+10133,2024-05-12,2064,Corporate,South,Furniture,Pen Set,8,1862.57,14900.56,Completed
+10134,2024-05-13,2856,Consumer,East,Office Supplies,Monitor,1,13822.21,13822.21,Completed
+10135,2024-05-14,2838,Corporate,West,Electronics,Mobile Phone,5,13816.84,69084.2,Completed
+10136,2024-05-15,2520,Home Office,West,Furniture,Printer,4,39366.97,157467.88,Returned
+10137,2024-05-16,2343,Corporate,North,Electronics,Chair,2,48742.99,97485.98,Completed
+10138,2024-05-17,2128,Corporate,West,Furniture,Laptop,8,18591.79,148734.32,Cancelled
+10139,2024-05-18,2647,Home Office,East,Electronics,Laptop,3,21472.9,64418.700000000004,Completed
+10140,2024-05-19,2471,Corporate,South,Electronics,Desk,4,42247.23,168988.92,Completed
+10141,2024-05-20,2062,Consumer,North,Office Supplies,Mobile Phone,7,13443.54,94104.78,Completed
+10142,2024-05-21,2138,Consumer,North,Electronics,Monitor,9,7861.27,70751.43000000001,Completed
+10143,2024-05-22,2498,Consumer,South,Furniture,Desk,2,42661.83,85323.66,Completed
+10144,2024-05-23,2592,Home Office,West,Furniture,Chair,3,2372.7,7118.099999999999,Completed
+10145,2024-05-24,2391,Corporate,South,Office Supplies,Desk,4,31003.99,124015.96,Completed
+10146,2024-05-25,2674,Consumer,West,Furniture,Pen Set,1,28121.54,28121.54,Completed
+10147,2024-05-26,2418,Home Office,South,Furniture,Laptop,7,17328.73,121301.11,Cancelled
+10148,2024-05-27,2288,Corporate,East,Furniture,Laptop,2,15793.72,31587.44,Completed
+10149,2024-05-28,2378,Home Office,West,Electronics,Printer,5,38604.29,193021.45,Completed
+10150,2024-05-29,2772,Consumer,East,Electronics,Printer,1,4366.91,4366.91,Completed
+10151,2024-05-30,2489,Consumer,North,Furniture,Monitor,3,11877.38,35632.14,Cancelled
+10152,2024-05-31,2230,Consumer,South,Office Supplies,Chair,2,36635.81,73271.62,Completed
+10153,2024-06-01,2040,Home Office,North,Electronics,Pen Set,1,27438.61,27438.61,Returned
+10154,2024-06-02,2027,Home Office,North,Office Supplies,Mobile Phone,7,6443.01,45101.07,Completed
+10155,2024-06-03,2134,Consumer,North,Furniture,Desk,5,44112.67,220563.34999999998,Completed
+10156,2024-06-04,2200,Home Office,North,Furniture,Monitor,1,19702.72,19702.72,Completed
+10157,2024-06-05,2839,Consumer,South,Electronics,Chair,6,41402.03,248412.18,Returned
+10158,2024-06-06,2779,Consumer,North,Furniture,Printer,5,39396.27,196981.34999999998,Completed
+10159,2024-06-07,2929,Corporate,South,Electronics,Desk,3,31240.05,93720.15,Completed
+10160,2024-06-08,2032,Home Office,South,Furniture,Printer,7,24749.33,173245.31,Completed
+10161,2024-06-09,2047,Consumer,East,Furniture,Desk,9,48978.56,440807.04,Completed
+10162,2024-06-10,2502,Consumer,West,Electronics,Mobile Phone,9,7291.01,65619.09,Cancelled
+10163,2024-06-11,2406,Home Office,West,Electronics,Chair,9,36271.53,326443.77,Completed
+10164,2024-06-12,2573,Corporate,South,Electronics,Desk,2,9599.98,19199.96,Cancelled
+10165,2024-06-13,2727,Corporate,East,Furniture,Pen Set,3,16946.24,50838.72,Completed
+10166,2024-06-14,2804,Consumer,South,Furniture,Monitor,7,15469.5,108286.5,Completed
+10167,2024-06-15,2098,Home Office,South,Office Supplies,Laptop,5,47354.45,236772.25,Completed
+10168,2024-06-16,2683,Corporate,South,Electronics,Pen Set,2,48369.44,96738.88,Completed
+10169,2024-06-17,2871,Home Office,East,Furniture,Pen Set,3,9191.62,27574.86,Completed
+10170,2024-06-18,2725,Home Office,West,Furniture,Monitor,6,1150.66,6903.960000000001,Completed
+10171,2024-06-19,2986,Consumer,East,Electronics,Laptop,7,36014.4,252100.80000000002,Completed
+10172,2024-06-20,2546,Corporate,North,Office Supplies,Pen Set,9,20928.6,188357.4,Cancelled
+10173,2024-06-21,2960,Consumer,East,Electronics,Desk,1,4487.57,4487.57,Returned
+10174,2024-06-22,2738,Corporate,East,Office Supplies,Desk,7,34203.52,239424.63999999998,Returned
+10175,2024-06-23,2612,Corporate,East,Furniture,Desk,8,27278.02,218224.16,Returned
+10176,2024-06-24,2942,Corporate,East,Office Supplies,Laptop,3,49026.82,147080.46,Completed
+10177,2024-06-25,2461,Corporate,West,Furniture,Pen Set,4,11409.1,45636.4,Completed
+10178,2024-06-26,2642,Corporate,North,Electronics,Laptop,6,20228.69,121372.13999999998,Completed
+10179,2024-06-27,2768,Home Office,West,Electronics,Desk,7,27150.16,190051.12,Completed
+10180,2024-06-28,2004,Consumer,West,Electronics,Monitor,4,39595.41,158381.64,Completed
+10181,2024-06-29,2217,Home Office,East,Office Supplies,Pen Set,8,27464.49,219715.92,Completed
+10182,2024-06-30,2502,Corporate,South,Furniture,Pen Set,5,30664.36,153321.8,Completed
+10183,2024-07-01,2766,Consumer,South,Electronics,Printer,1,11346.05,11346.05,Completed
+10184,2024-07-02,2397,Corporate,West,Electronics,Printer,4,42353.59,169414.36,Completed
+10185,2024-07-03,2870,Consumer,West,Furniture,Mobile Phone,3,21460.1,64380.299999999996,Completed
+10186,2024-07-04,2794,Home Office,East,Electronics,Chair,9,7090.93,63818.37,Completed
+10187,2024-07-05,2392,Consumer,West,Furniture,Printer,8,33226.19,265809.52,Completed
+10188,2024-07-06,2206,Consumer,East,Furniture,Laptop,1,10843.72,10843.72,Completed
+10189,2024-07-07,2014,Consumer,South,Furniture,Printer,6,4923.25,29539.5,Completed
+10190,2024-07-08,2857,Consumer,South,Furniture,Mobile Phone,9,43106.25,387956.25,Returned
+10191,2024-07-09,2553,Consumer,North,Furniture,Pen Set,7,23035.11,161245.77000000002,Completed
+10192,2024-07-10,2891,Corporate,South,Office Supplies,Mobile Phone,4,37476.72,149906.88,Completed
+10193,2024-07-11,2460,Consumer,West,Electronics,Pen Set,1,14564.85,14564.85,Returned
+10194,2024-07-12,2690,Consumer,South,Office Supplies,Monitor,2,39359.16,78718.32,Completed
+10195,2024-07-13,2574,Home Office,East,Electronics,Monitor,5,5641.2,28206.0,Completed
+10196,2024-07-14,2863,Consumer,South,Office Supplies,Pen Set,5,17830.87,89154.34999999999,Completed
+10197,2024-07-15,2742,Home Office,North,Furniture,Chair,8,48904.19,391233.52,Completed
+10198,2024-07-16,2240,Corporate,South,Electronics,Printer,6,39709.79,238258.74,Completed
+10199,2024-07-17,2563,Consumer,East,Electronics,Laptop,8,24887.93,199103.44,Completed
+10200,2024-07-18,2095,Home Office,East,Office Supplies,Laptop,2,17021.88,34043.76,Returned
+10201,2024-07-19,2899,Home Office,West,Office Supplies,Desk,3,43613.18,130839.54000000001,Completed
+10202,2024-07-20,2733,Corporate,South,Electronics,Pen Set,6,27265.15,163590.90000000002,Completed
+10203,2024-07-21,2484,Consumer,East,Office Supplies,Laptop,3,37933.33,113799.99,Completed
+10204,2024-07-22,2406,Consumer,North,Office Supplies,Chair,6,37717.68,226306.08000000002,Completed
+10205,2024-07-23,2230,Home Office,West,Office Supplies,Pen Set,6,946.39,5678.34,Completed
+10206,2024-07-24,2748,Consumer,North,Furniture,Chair,2,6356.38,12712.76,Completed
+10207,2024-07-25,2654,Home Office,South,Furniture,Laptop,7,32998.49,230989.43,Returned
+10208,2024-07-26,2170,Consumer,South,Office Supplies,Laptop,2,8122.91,16245.82,Completed
+10209,2024-07-27,2540,Home Office,South,Office Supplies,Desk,6,12811.89,76871.34,Completed
+10210,2024-07-28,2035,Consumer,West,Furniture,Laptop,1,47334.57,47334.57,Completed
+10211,2024-07-29,2524,Corporate,East,Furniture,Pen Set,3,28031.1,84093.29999999999,Completed
+10212,2024-07-30,2159,Consumer,West,Electronics,Monitor,2,37548.94,75097.88,Completed
+10213,2024-07-31,2838,Consumer,North,Electronics,Pen Set,7,27921.14,195447.97999999998,Completed
+10214,2024-08-01,2698,Corporate,West,Furniture,Pen Set,4,27648.06,110592.24,Completed
+10215,2024-08-02,2242,Consumer,North,Office Supplies,Desk,8,4752.89,38023.12,Completed
+10216,2024-08-03,2085,Corporate,West,Office Supplies,Desk,6,17215.98,103295.88,Returned
+10217,2024-08-04,2795,Consumer,East,Office Supplies,Laptop,4,14157.42,56629.68,Completed
+10218,2024-08-05,2577,Home Office,North,Office Supplies,Mobile Phone,5,19566.88,97834.40000000001,Returned
+10219,2024-08-06,2681,Home Office,South,Electronics,Mobile Phone,9,39927.29,359345.61,Completed
+10220,2024-08-07,2556,Consumer,South,Furniture,Desk,7,18628.04,130396.28,Completed
+10221,2024-08-08,2573,Consumer,West,Office Supplies,Laptop,9,22612.26,203510.34,Completed
+10222,2024-08-09,2952,Consumer,South,Electronics,Mobile Phone,7,19899.2,139294.4,Completed
+10223,2024-08-10,2645,Home Office,North,Office Supplies,Laptop,1,4715.73,4715.73,Completed
+10224,2024-08-11,2795,Consumer,South,Furniture,Laptop,8,22081.55,176652.4,Completed
+10225,2024-08-12,2027,Home Office,East,Electronics,Laptop,4,9820.68,39282.72,Completed
+10226,2024-08-13,2619,Corporate,East,Furniture,Printer,3,9376.83,28130.489999999998,Completed
+10227,2024-08-14,2555,Home Office,West,Furniture,Pen Set,7,4747.1,33229.700000000004,Completed
+10228,2024-08-15,2339,Home Office,North,Electronics,Laptop,3,17865.72,53597.16,Cancelled
+10229,2024-08-16,2797,Corporate,East,Electronics,Printer,8,37886.22,303089.76,Completed
+10230,2024-08-17,2957,Home Office,East,Electronics,Desk,6,13858.26,83149.56,Completed
+10231,2024-08-18,2330,Consumer,North,Electronics,Mobile Phone,5,15651.84,78259.2,Completed
+10232,2024-08-19,2639,Consumer,South,Electronics,Pen Set,4,32151.6,128606.4,Returned
+10233,2024-08-20,2505,Home Office,South,Electronics,Monitor,8,9832.25,78658.0,Returned
+10234,2024-08-21,2347,Consumer,West,Electronics,Mobile Phone,8,44853.05,358824.4,Completed
+10235,2024-08-22,2472,Home Office,South,Office Supplies,Pen Set,1,26033.52,26033.52,Completed
+10236,2024-08-23,2230,Consumer,North,Furniture,Monitor,9,22407.77,201669.93,Completed
+10237,2024-08-24,2189,Consumer,East,Electronics,Mobile Phone,5,27913.12,139565.6,Completed
+10238,2024-08-25,2224,Home Office,South,Office Supplies,Pen Set,4,8343.41,33373.64,Completed
+10239,2024-08-26,2384,Consumer,West,Office Supplies,Mobile Phone,6,30692.98,184157.88,Completed
+10240,2024-08-27,2376,Home Office,South,Office Supplies,Mobile Phone,6,18186.88,109121.28,Completed
+10241,2024-08-28,2282,Consumer,North,Furniture,Monitor,2,44864.46,89728.92,Completed
+10242,2024-08-29,2957,Consumer,West,Electronics,Mobile Phone,8,8484.27,67874.16,Returned
+10243,2024-08-30,2632,Corporate,South,Office Supplies,Mobile Phone,7,25377.2,177640.4,Completed
+10244,2024-08-31,2627,Corporate,West,Furniture,Monitor,1,29925.73,29925.73,Completed
+10245,2024-09-01,2972,Home Office,North,Furniture,Desk,5,1717.51,8587.55,Completed
+10246,2024-09-02,2744,Corporate,East,Furniture,Laptop,6,18216.47,109298.82,Cancelled
+10247,2024-09-03,2258,Home Office,North,Office Supplies,Chair,4,36645.13,146580.52,Completed
+10248,2024-09-04,2358,Corporate,North,Electronics,Printer,2,41027.86,82055.72,Cancelled
+10249,2024-09-05,2709,Consumer,North,Office Supplies,Chair,4,15692.44,62769.76,Returned
+10250,2024-09-06,2455,Home Office,North,Office Supplies,Chair,1,39939.73,39939.73,Completed
+10251,2024-09-07,2410,Home Office,East,Electronics,Pen Set,7,48389.41,338725.87,Completed
+10252,2024-09-08,2648,Consumer,East,Electronics,Laptop,2,42850.85,85701.7,Returned
+10253,2024-09-09,2317,Home Office,West,Electronics,Pen Set,2,5926.32,11852.64,Completed
+10254,2024-09-10,2676,Home Office,South,Furniture,Laptop,9,36999.53,332995.77,Cancelled
+10255,2024-09-11,2224,Corporate,East,Electronics,Monitor,5,16017.36,80086.8,Cancelled
+10256,2024-09-12,2818,Home Office,East,Office Supplies,Monitor,2,49421.38,98842.76,Completed
+10257,2024-09-13,2233,Consumer,South,Electronics,Laptop,9,24293.68,218643.12,Completed
+10258,2024-09-14,2683,Corporate,East,Office Supplies,Mobile Phone,9,6165.57,55490.13,Cancelled
+10259,2024-09-15,2663,Corporate,North,Furniture,Desk,1,36273.02,36273.02,Completed
+10260,2024-09-16,2974,Consumer,North,Office Supplies,Mobile Phone,3,16184.41,48553.229999999996,Completed
+10261,2024-09-17,2826,Consumer,South,Office Supplies,Desk,4,49854.05,199416.2,Completed
+10262,2024-09-18,2373,Corporate,West,Electronics,Pen Set,7,48990.13,342930.91,Completed
+10263,2024-09-19,2671,Home Office,West,Electronics,Desk,4,32823.89,131295.56,Cancelled
+10264,2024-09-20,2607,Corporate,South,Office Supplies,Pen Set,2,6534.83,13069.66,Returned
+10265,2024-09-21,2471,Consumer,South,Electronics,Monitor,7,34358.71,240510.97,Completed
+10266,2024-09-22,2232,Corporate,North,Furniture,Chair,6,4696.87,28181.22,Completed
+10267,2024-09-23,2691,Consumer,West,Furniture,Monitor,3,1516.74,4550.22,Completed
+10268,2024-09-24,2112,Corporate,East,Electronics,Monitor,6,41156.77,246940.62,Returned
+10269,2024-09-25,2829,Home Office,North,Furniture,Chair,6,10527.16,63162.96,Completed
+10270,2024-09-26,2496,Corporate,South,Electronics,Desk,5,18982.4,94912.0,Completed
+10271,2024-09-27,2441,Corporate,West,Office Supplies,Desk,4,48674.2,194696.8,Completed
+10272,2024-09-28,2563,Consumer,East,Office Supplies,Pen Set,1,16875.18,16875.18,Completed
+10273,2024-09-29,2267,Consumer,East,Furniture,Mobile Phone,6,14859.66,89157.95999999999,Cancelled
+10274,2024-09-30,2509,Consumer,North,Electronics,Pen Set,2,45914.49,91828.98,Completed
+10275,2024-10-01,2806,Corporate,West,Electronics,Mobile Phone,3,5581.88,16745.64,Completed
+10276,2024-10-02,2385,Home Office,West,Furniture,Monitor,8,37991.14,303929.12,Completed
+10277,2024-10-03,2386,Consumer,South,Office Supplies,Chair,6,49403.88,296423.27999999997,Cancelled
+10278,2024-10-04,2112,Consumer,West,Furniture,Monitor,3,45069.74,135209.22,Completed
+10279,2024-10-05,2612,Corporate,West,Office Supplies,Laptop,7,32600.81,228205.67,Completed
+10280,2024-10-06,2624,Consumer,North,Electronics,Desk,4,15737.34,62949.36,Completed
+10281,2024-10-07,2951,Home Office,West,Office Supplies,Mobile Phone,9,12753.38,114780.42,Returned
+10282,2024-10-08,2080,Home Office,East,Furniture,Pen Set,5,40971.79,204858.95,Completed
+10283,2024-10-09,2698,Consumer,North,Electronics,Chair,3,43997.1,131991.3,Completed
+10284,2024-10-10,2112,Consumer,North,Furniture,Mobile Phone,2,26295.47,52590.94,Completed
+10285,2024-10-11,2001,Corporate,South,Furniture,Pen Set,2,12254.78,24509.56,Completed
+10286,2024-10-12,2641,Home Office,West,Office Supplies,Desk,3,5691.51,17074.53,Completed
+10287,2024-10-13,2219,Home Office,South,Furniture,Monitor,2,4404.61,8809.22,Returned
+10288,2024-10-14,2565,Consumer,East,Office Supplies,Desk,4,35967.92,143871.68,Completed
+10289,2024-10-15,2854,Corporate,North,Electronics,Printer,2,21034.93,42069.86,Completed
+10290,2024-10-16,2996,Home Office,North,Office Supplies,Laptop,9,45272.73,407454.57,Completed
+10291,2024-10-17,2735,Home Office,North,Electronics,Printer,2,36996.58,73993.16,Completed
+10292,2024-10-18,2224,Corporate,East,Office Supplies,Chair,9,9603.46,86431.13999999998,Completed
+10293,2024-10-19,2384,Corporate,East,Furniture,Mobile Phone,6,30708.18,184249.08000000002,Returned
+10294,2024-10-20,2402,Home Office,South,Office Supplies,Chair,1,21803.5,21803.5,Completed
+10295,2024-10-21,2637,Home Office,South,Office Supplies,Monitor,4,28883.62,115534.48,Completed
+10296,2024-10-22,2129,Corporate,South,Electronics,Pen Set,1,36916.55,36916.55,Completed
+10297,2024-10-23,2052,Home Office,West,Furniture,Desk,6,40319.48,241916.88,Completed
+10298,2024-10-24,2683,Consumer,North,Office Supplies,Printer,4,42194.68,168778.72,Completed
+10299,2024-10-25,2729,Consumer,North,Furniture,Printer,3,12736.04,38208.12,Completed
+10300,2024-10-26,2671,Corporate,South,Office Supplies,Monitor,3,1604.22,4812.66,Cancelled
+10301,2024-10-27,2709,Corporate,North,Office Supplies,Printer,9,36977.77,332799.93,Completed
+10302,2024-10-28,2415,Corporate,South,Furniture,Monitor,6,5361.87,32171.22,Completed
+10303,2024-10-29,2246,Consumer,West,Office Supplies,Chair,9,15780.23,142022.07,Cancelled
+10304,2024-10-30,2835,Home Office,West,Furniture,Desk,5,240.67,1203.35,Completed
+10305,2024-10-31,2438,Consumer,East,Office Supplies,Mobile Phone,2,34099.39,68198.78,Completed
+10306,2024-11-01,2202,Home Office,West,Electronics,Pen Set,8,8398.24,67185.92,Completed
+10307,2024-11-02,2183,Consumer,South,Furniture,Mobile Phone,5,32781.36,163906.8,Completed
+10308,2024-11-03,2122,Home Office,West,Office Supplies,Chair,2,49587.54,99175.08,Completed
+10309,2024-11-04,2400,Consumer,East,Office Supplies,Pen Set,4,3679.91,14719.64,Completed
+10310,2024-11-05,2766,Corporate,North,Electronics,Printer,9,3900.05,35100.450000000004,Completed
+10311,2024-11-06,2293,Consumer,South,Furniture,Laptop,4,17051.99,68207.96,Returned
+10312,2024-11-07,2279,Home Office,North,Office Supplies,Chair,4,43326.01,173304.04,Completed
+10313,2024-11-08,2836,Consumer,East,Electronics,Chair,2,10815.72,21631.44,Completed
+10314,2024-11-09,2883,Consumer,East,Office Supplies,Desk,6,18050.87,108305.22,Completed
+10315,2024-11-10,2609,Consumer,East,Furniture,Mobile Phone,2,3471.85,6943.7,Completed
+10316,2024-11-11,2197,Corporate,North,Office Supplies,Chair,7,38169.61,267187.27,Completed
+10317,2024-11-12,2981,Consumer,North,Office Supplies,Chair,3,20444.9,61334.700000000004,Cancelled
+10318,2024-11-13,2906,Corporate,North,Office Supplies,Printer,3,37974.47,113923.41,Returned
+10319,2024-11-14,2510,Corporate,North,Office Supplies,Printer,5,45185.21,225926.05,Completed
+10320,2024-11-15,2751,Consumer,East,Electronics,Pen Set,3,11676.52,35029.56,Cancelled
+10321,2024-11-16,2143,Consumer,East,Electronics,Monitor,2,40379.43,80758.86,Completed
+10322,2024-11-17,2608,Consumer,South,Furniture,Monitor,9,3001.74,27015.659999999996,Completed
+10323,2024-11-18,2200,Home Office,South,Electronics,Laptop,2,44947.43,89894.86,Completed
+10324,2024-11-19,2123,Consumer,North,Electronics,Monitor,2,32555.89,65111.78,Cancelled
+10325,2024-11-20,2186,Corporate,West,Furniture,Desk,8,43717.62,349740.96,Completed
+10326,2024-11-21,2325,Consumer,West,Electronics,Laptop,9,59.41,534.6899999999999,Completed
+10327,2024-11-22,2463,Home Office,East,Electronics,Pen Set,7,8495.6,59469.200000000004,Returned
+10328,2024-11-23,2348,Consumer,East,Furniture,Printer,3,19518.48,58555.44,Completed
+10329,2024-11-24,2770,Home Office,East,Furniture,Monitor,9,19006.17,171055.52999999997,Completed
+10330,2024-11-25,2659,Home Office,South,Furniture,Mobile Phone,3,11375.18,34125.54,Completed
+10331,2024-11-26,2763,Consumer,South,Office Supplies,Printer,5,19111.52,95557.6,Completed
+10332,2024-11-27,2954,Corporate,East,Office Supplies,Desk,9,6485.99,58373.909999999996,Completed
+10333,2024-11-28,2931,Home Office,East,Furniture,Printer,3,20667.42,62002.259999999995,Completed
+10334,2024-11-29,2402,Consumer,East,Furniture,Desk,7,40127.6,280893.2,Completed
+10335,2024-11-30,2345,Consumer,West,Furniture,Desk,1,23979.55,23979.55,Returned
+10336,2024-12-01,2962,Corporate,South,Office Supplies,Desk,4,949.1,3796.4,Completed
+10337,2024-12-02,2510,Home Office,West,Office Supplies,Pen Set,4,21101.13,84404.52,Completed
+10338,2024-12-03,2146,Home Office,West,Electronics,Desk,7,1407.39,9851.730000000001,Completed
+10339,2024-12-04,2147,Consumer,East,Electronics,Desk,8,48313.86,386510.88,Completed
+10340,2024-12-05,2863,Consumer,East,Furniture,Mobile Phone,1,6416.33,6416.33,Completed
+10341,2024-12-06,2710,Corporate,North,Office Supplies,Laptop,5,35399.03,176995.15,Completed
+10342,2024-12-07,2819,Corporate,North,Office Supplies,Chair,7,48640.18,340481.26,Completed
+10343,2024-12-08,2488,Home Office,West,Office Supplies,Laptop,4,41310.65,165242.6,Completed
+10344,2024-12-09,2928,Home Office,South,Furniture,Desk,4,34980.8,139923.2,Completed
+10345,2024-12-10,2935,Consumer,East,Electronics,Mobile Phone,4,41981.07,167924.28,Completed
+10346,2024-12-11,2639,Home Office,East,Furniture,Printer,6,49090.84,294545.04,Completed
+10347,2024-12-12,2550,Corporate,West,Electronics,Mobile Phone,7,31086.16,217603.12,Completed
+10348,2024-12-13,2337,Corporate,North,Electronics,Desk,2,27981.28,55962.56,Completed
+10349,2024-12-14,2871,Consumer,South,Furniture,Mobile Phone,5,31430.49,157152.45,Completed
+10350,2024-12-15,2640,Corporate,North,Electronics,Monitor,4,26657.16,106628.64,Completed
+10351,2024-12-16,2778,Corporate,North,Electronics,Mobile Phone,3,31772.7,95318.1,Returned
+10352,2024-12-17,2987,Corporate,North,Office Supplies,Desk,7,22519.62,157637.34,Completed
+10353,2024-12-18,2952,Corporate,North,Electronics,Pen Set,6,10961.24,65767.44,Completed
+10354,2024-12-19,2472,Consumer,East,Furniture,Monitor,7,6056.35,42394.450000000004,Returned
+10355,2024-12-20,2945,Consumer,East,Furniture,Mobile Phone,5,3463.63,17318.15,Completed
+10356,2024-12-21,2150,Home Office,North,Electronics,Chair,6,13202.62,79215.72,Completed
+10357,2024-12-22,2414,Corporate,South,Office Supplies,Chair,5,2353.87,11769.349999999999,Completed
+10358,2024-12-23,2989,Home Office,West,Office Supplies,Mobile Phone,7,28380.18,198661.26,Completed
+10359,2024-12-24,2297,Consumer,South,Electronics,Pen Set,2,14227.23,28454.46,Returned
+10360,2024-12-25,2610,Consumer,South,Electronics,Printer,5,41235.51,206177.55000000002,Completed
+10361,2024-12-26,2262,Consumer,South,Furniture,Desk,6,3758.33,22549.98,Cancelled
+10362,2024-12-27,2763,Consumer,North,Electronics,Chair,6,11356.26,68137.56,Completed
+10363,2024-12-28,2143,Consumer,East,Office Supplies,Printer,5,36525.8,182629.0,Completed
+10364,2024-12-29,2345,Consumer,South,Electronics,Mobile Phone,7,29960.47,209723.29,Completed
+10365,2024-12-30,2623,Consumer,North,Furniture,Printer,8,3271.34,26170.72,Completed
+10366,2024-12-31,2571,Corporate,South,Furniture,Monitor,7,43868.11,307076.77,Completed
+10367,2025-01-01,2880,Home Office,South,Furniture,Laptop,5,43869.23,219346.15000000002,Cancelled
+10368,2025-01-02,2001,Consumer,North,Furniture,Chair,1,16553.88,16553.88,Completed
+10369,2025-01-03,2896,Corporate,East,Furniture,Mobile Phone,5,17053.27,85266.35,Completed
+10370,2025-01-04,2303,Corporate,East,Electronics,Desk,2,49451.97,98903.94,Completed
+10371,2025-01-05,2253,Home Office,West,Electronics,Pen Set,5,31327.5,156637.5,Completed
+10372,2025-01-06,2651,Consumer,North,Electronics,Monitor,5,26589.26,132946.3,Completed
+10373,2025-01-07,2452,Home Office,West,Electronics,Mobile Phone,2,41915.7,83831.4,Completed
+10374,2025-01-08,2036,Consumer,West,Furniture,Desk,5,14300.25,71501.25,Completed
+10375,2025-01-09,2159,Corporate,West,Office Supplies,Pen Set,4,21487.67,85950.68,Completed
+10376,2025-01-10,2008,Corporate,East,Electronics,Pen Set,1,13425.44,13425.44,Completed
+10377,2025-01-11,2232,Corporate,North,Office Supplies,Mobile Phone,3,39468.58,118405.74,Returned
+10378,2025-01-12,2098,Corporate,West,Electronics,Monitor,1,28688.8,28688.8,Returned
+10379,2025-01-13,2658,Home Office,North,Electronics,Printer,5,32958.31,164791.55,Completed
+10380,2025-01-14,2815,Consumer,North,Office Supplies,Printer,4,12652.75,50611.0,Completed
+10381,2025-01-15,2207,Consumer,East,Furniture,Pen Set,7,11050.25,77351.75,Cancelled
+10382,2025-01-16,2130,Home Office,West,Electronics,Printer,5,24444.31,122221.55,Completed
+10383,2025-01-17,2403,Consumer,West,Electronics,Laptop,4,36891.41,147565.64,Cancelled
+10384,2025-01-18,2151,Corporate,North,Electronics,Pen Set,2,26285.73,52571.46,Completed
+10385,2025-01-19,2053,Consumer,South,Office Supplies,Pen Set,4,1680.65,6722.6,Completed
+10386,2025-01-20,2119,Corporate,East,Furniture,Desk,2,43434.15,86868.3,Returned
+10387,2025-01-21,2672,Home Office,East,Office Supplies,Printer,8,3281.11,26248.88,Cancelled
+10388,2025-01-22,2919,Consumer,East,Office Supplies,Monitor,3,47793.43,143380.29,Completed
+10389,2025-01-23,2627,Home Office,East,Furniture,Pen Set,9,1305.84,11752.56,Completed
+10390,2025-01-24,2586,Consumer,West,Office Supplies,Monitor,4,34737.8,138951.2,Completed
+10391,2025-01-25,2624,Corporate,West,Furniture,Laptop,6,4156.24,24937.44,Completed
+10392,2025-01-26,2967,Home Office,South,Electronics,Desk,5,45538.3,227691.5,Completed
+10393,2025-01-27,2419,Consumer,East,Furniture,Mobile Phone,1,23248.44,23248.44,Completed
+10394,2025-01-28,2421,Corporate,East,Electronics,Monitor,9,6919.31,62273.79,Cancelled
+10395,2025-01-29,2103,Home Office,North,Office Supplies,Pen Set,1,17073.74,17073.74,Completed
+10396,2025-01-30,2851,Home Office,West,Office Supplies,Laptop,8,8282.99,66263.92,Completed
+10397,2025-01-31,2253,Consumer,East,Electronics,Chair,9,8570.57,77135.13,Completed
+10398,2025-02-01,2226,Consumer,South,Office Supplies,Laptop,9,47408.01,426672.09,Completed
+10399,2025-02-02,2111,Consumer,South,Furniture,Laptop,1,22290.04,22290.04,Completed
+10400,2025-02-03,2509,Corporate,West,Electronics,Desk,2,39450.67,78901.34,Completed
+10401,2025-02-04,2472,Consumer,South,Office Supplies,Mobile Phone,1,31998.3,31998.3,Completed
+10402,2025-02-05,2098,Home Office,South,Electronics,Chair,2,33837.5,67675.0,Cancelled
+10403,2025-02-06,2152,Home Office,West,Furniture,Printer,8,6628.09,53024.72,Cancelled
+10404,2025-02-07,2860,Consumer,East,Furniture,Printer,5,11747.51,58737.55,Completed
+10405,2025-02-08,2913,Consumer,East,Office Supplies,Monitor,7,39348.18,275437.26,Cancelled
+10406,2025-02-09,2895,Home Office,South,Furniture,Laptop,2,48539.77,97079.54,Completed
+10407,2025-02-10,2877,Corporate,South,Electronics,Desk,8,13170.65,105365.2,Completed
+10408,2025-02-11,2337,Consumer,East,Furniture,Desk,6,13614.86,81689.16,Completed
+10409,2025-02-12,2705,Consumer,West,Electronics,Printer,8,23671.21,189369.68,Completed
+10410,2025-02-13,2821,Home Office,South,Electronics,Monitor,1,49192.82,49192.82,Completed
+10411,2025-02-14,2162,Consumer,North,Furniture,Monitor,1,13484.5,13484.5,Returned
+10412,2025-02-15,2719,Corporate,West,Office Supplies,Monitor,7,20378.25,142647.75,Completed
+10413,2025-02-16,2956,Home Office,South,Furniture,Chair,8,44579.43,356635.44,Returned
+10414,2025-02-17,2680,Consumer,South,Electronics,Mobile Phone,3,195.91,587.73,Completed
+10415,2025-02-18,2995,Home Office,North,Electronics,Chair,5,2036.31,10181.55,Completed
+10416,2025-02-19,2160,Consumer,North,Furniture,Pen Set,1,30223.38,30223.38,Cancelled
+10417,2025-02-20,2579,Consumer,East,Office Supplies,Pen Set,7,45373.64,317615.48,Completed
+10418,2025-02-21,2800,Consumer,West,Office Supplies,Mobile Phone,5,11980.89,59904.45,Completed
+10419,2025-02-22,2397,Corporate,West,Electronics,Printer,8,23508.61,188068.88,Completed
+10420,2025-02-23,2276,Corporate,East,Electronics,Mobile Phone,8,22550.74,180405.92,Completed
+10421,2025-02-24,2815,Home Office,West,Office Supplies,Desk,9,23674.92,213074.27999999997,Completed
+10422,2025-02-25,2915,Consumer,West,Furniture,Pen Set,7,31144.86,218014.02000000002,Completed
+10423,2025-02-26,2503,Consumer,West,Electronics,Laptop,1,23513.7,23513.7,Completed
+10424,2025-02-27,2895,Corporate,West,Electronics,Laptop,3,22401.03,67203.09,Cancelled
+10425,2025-02-28,2391,Consumer,West,Office Supplies,Printer,8,23740.71,189925.68,Completed
+10426,2025-03-01,2134,Corporate,North,Furniture,Desk,3,29563.83,88691.49,Completed
+10427,2025-03-02,2194,Consumer,West,Office Supplies,Chair,8,26873.52,214988.16,Completed
+10428,2025-03-03,2400,Home Office,North,Furniture,Desk,1,42714.09,42714.09,Cancelled
+10429,2025-03-04,2639,Consumer,West,Furniture,Laptop,5,2522.37,12611.849999999999,Completed
+10430,2025-03-05,2032,Consumer,East,Furniture,Laptop,4,41674.19,166696.76,Completed
+10431,2025-03-06,2687,Corporate,South,Electronics,Pen Set,5,42204.03,211020.15,Completed
+10432,2025-03-07,2459,Consumer,North,Office Supplies,Desk,8,14281.16,114249.28,Completed
+10433,2025-03-08,2954,Consumer,West,Office Supplies,Desk,4,23169.46,92677.84,Returned
+10434,2025-03-09,2882,Corporate,East,Furniture,Laptop,4,21955.0,87820.0,Completed
+10435,2025-03-10,2469,Home Office,South,Electronics,Chair,3,10964.57,32893.71,Completed
+10436,2025-03-11,2374,Home Office,North,Electronics,Printer,7,19870.0,139090.0,Completed
+10437,2025-03-12,2021,Corporate,South,Office Supplies,Monitor,3,2267.17,6801.51,Completed
+10438,2025-03-13,2749,Corporate,East,Electronics,Printer,3,13927.21,41781.63,Cancelled
+10439,2025-03-14,2669,Corporate,North,Electronics,Desk,5,40843.27,204216.34999999998,Cancelled
+10440,2025-03-15,2037,Corporate,South,Furniture,Printer,5,14263.89,71319.45,Completed
+10441,2025-03-16,2229,Corporate,West,Electronics,Laptop,6,40919.42,245516.52,Returned
+10442,2025-03-17,2364,Home Office,North,Furniture,Laptop,8,26603.39,212827.12,Completed
+10443,2025-03-18,2562,Home Office,South,Office Supplies,Desk,6,43999.14,263994.83999999997,Completed
+10444,2025-03-19,2437,Corporate,East,Electronics,Desk,1,28760.24,28760.24,Completed
+10445,2025-03-20,2775,Consumer,East,Office Supplies,Monitor,8,1531.93,12255.44,Completed
+10446,2025-03-21,2282,Corporate,North,Office Supplies,Monitor,8,33787.24,270297.92,Completed
+10447,2025-03-22,2026,Consumer,South,Electronics,Pen Set,9,2290.44,20613.96,Cancelled
+10448,2025-03-23,2225,Corporate,North,Electronics,Desk,9,22557.32,203015.88,Completed
+10449,2025-03-24,2276,Corporate,North,Office Supplies,Chair,2,46474.86,92949.72,Returned
+10450,2025-03-25,2797,Home Office,South,Electronics,Printer,2,8301.94,16603.88,Completed
+10451,2025-03-26,2608,Consumer,South,Furniture,Desk,3,19524.12,58572.36,Returned
+10452,2025-03-27,2283,Consumer,West,Furniture,Mobile Phone,1,36506.52,36506.52,Completed
+10453,2025-03-28,2878,Home Office,South,Electronics,Pen Set,4,44118.81,176475.24,Completed
+10454,2025-03-29,2959,Home Office,East,Office Supplies,Mobile Phone,4,33563.6,134254.4,Completed
+10455,2025-03-30,2480,Home Office,North,Electronics,Laptop,9,12945.75,116511.75,Returned
+10456,2025-03-31,2452,Home Office,North,Electronics,Monitor,9,33746.66,303719.94000000006,Completed
+10457,2025-04-01,2828,Consumer,East,Office Supplies,Printer,9,14871.55,133843.94999999998,Returned
+10458,2025-04-02,2815,Consumer,South,Office Supplies,Desk,7,35935.54,251548.78,Completed
+10459,2025-04-03,2658,Corporate,East,Furniture,Mobile Phone,2,47703.95,95407.9,Completed
+10460,2025-04-04,2515,Corporate,East,Office Supplies,Printer,5,36083.6,180418.0,Returned
+10461,2025-04-05,2546,Home Office,West,Furniture,Laptop,4,43150.88,172603.52,Completed
+10462,2025-04-06,2191,Home Office,East,Office Supplies,Monitor,8,155.09,1240.72,Completed
+10463,2025-04-07,2048,Home Office,North,Electronics,Chair,2,35892.73,71785.46,Completed
+10464,2025-04-08,2511,Corporate,East,Furniture,Pen Set,6,41487.9,248927.40000000002,Returned
+10465,2025-04-09,2016,Corporate,North,Furniture,Printer,5,2075.91,10379.55,Completed
+10466,2025-04-10,2171,Corporate,North,Furniture,Printer,2,43586.31,87172.62,Cancelled
+10467,2025-04-11,2219,Corporate,North,Electronics,Chair,1,12871.88,12871.88,Completed
+10468,2025-04-12,2157,Corporate,South,Electronics,Printer,8,33281.34,266250.72,Cancelled
+10469,2025-04-13,2476,Corporate,West,Electronics,Laptop,2,40027.73,80055.46,Cancelled
+10470,2025-04-14,2045,Corporate,North,Electronics,Laptop,7,33150.09,232050.62999999998,Completed
+10471,2025-04-15,2372,Home Office,North,Electronics,Chair,9,4659.63,41936.67,Completed
+10472,2025-04-16,2517,Home Office,South,Furniture,Pen Set,9,29836.26,268526.33999999997,Completed
+10473,2025-04-17,2098,Home Office,North,Electronics,Desk,8,27501.7,220013.6,Completed
+10474,2025-04-18,2891,Home Office,East,Furniture,Mobile Phone,9,45021.05,405189.45,Completed
+10475,2025-04-19,2744,Corporate,East,Electronics,Desk,2,20241.77,40483.54,Completed
+10476,2025-04-20,2036,Consumer,West,Office Supplies,Printer,6,16088.0,96528.0,Completed
+10477,2025-04-21,2279,Corporate,North,Furniture,Mobile Phone,4,37505.05,150020.2,Completed
+10478,2025-04-22,2348,Consumer,South,Office Supplies,Chair,4,20663.13,82652.52,Completed
+10479,2025-04-23,2496,Home Office,East,Furniture,Chair,5,32322.5,161612.5,Completed
+10480,2025-04-24,2301,Corporate,South,Office Supplies,Pen Set,3,32340.18,97020.54000000001,Cancelled
+10481,2025-04-25,2180,Home Office,South,Electronics,Mobile Phone,1,44407.55,44407.55,Completed
+10482,2025-04-26,2606,Corporate,East,Electronics,Laptop,8,29954.69,239637.52,Completed
+10483,2025-04-27,2098,Home Office,South,Electronics,Mobile Phone,5,25132.57,125662.85,Completed
+10484,2025-04-28,2699,Consumer,East,Furniture,Printer,3,6986.62,20959.86,Returned
+10485,2025-04-29,2992,Consumer,South,Office Supplies,Laptop,7,5831.09,40817.630000000005,Cancelled
+10486,2025-04-30,2115,Consumer,East,Electronics,Monitor,7,7758.36,54308.52,Returned
+10487,2025-05-01,2190,Corporate,North,Office Supplies,Monitor,1,8633.83,8633.83,Cancelled
+10488,2025-05-02,2252,Consumer,West,Office Supplies,Monitor,9,31911.96,287207.64,Completed
+10489,2025-05-03,2980,Corporate,East,Electronics,Chair,2,37062.01,74124.02,Returned
+10490,2025-05-04,2927,Consumer,East,Electronics,Mobile Phone,5,26523.08,132615.40000000002,Completed
+10491,2025-05-05,2982,Consumer,West,Office Supplies,Monitor,5,41459.44,207297.2,Completed
+10492,2025-05-06,2160,Corporate,East,Electronics,Desk,8,49563.6,396508.8,Cancelled
+10493,2025-05-07,2255,Corporate,East,Electronics,Pen Set,8,41009.63,328077.04,Completed
+10494,2025-05-08,2322,Consumer,South,Electronics,Desk,7,34759.37,243315.59000000003,Completed
+10495,2025-05-09,2127,Corporate,West,Furniture,Monitor,7,26648.01,186536.06999999998,Completed
+10496,2025-05-10,2017,Consumer,North,Office Supplies,Pen Set,6,22470.21,134821.26,Completed
+10497,2025-05-11,2792,Corporate,East,Office Supplies,Printer,6,4265.4,25592.399999999998,Completed
+10498,2025-05-12,2734,Home Office,West,Furniture,Desk,9,19998.47,179986.23,Completed
+10499,2025-05-13,2565,Home Office,South,Office Supplies,Mobile Phone,6,45511.23,273067.38,Completed
+10500,2025-05-14,2569,Home Office,North,Electronics,Mobile Phone,2,40410.73,80821.46,Completed
